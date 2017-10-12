@@ -38,16 +38,16 @@
 			<br>
 			<h3>Quantitative Accomplishments</h3>
 			<ul>
-				<li>Thing 1</li>
-				<li>Thing 2</li>
-				<li>Thing 3</li>
+				<li>I started a farming intern, and within a period of 5 years had moved up through company, with a knowledge of all positions within the company. </li>
+				<li>Within the same five year period my compensation was tripled.</li>
+				<li>I helped to increase the efficiency of our packing room by %33 by  </li>
 			</ul>
 			<br>
 			<h3>Qualitative Features</h3>
 			<ul>
-				<li>Thing 1</li>
-				<li>Thing 2</li>
-				<li>Thing 3</li>
+				<li>Patient and perceptive</li>
+				<li>Emotional intelligence</li>
+				<li>Reliable</li>
 			</ul>
 			<br>
 			<h3>Golden Circle</h3>
