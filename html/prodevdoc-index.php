@@ -22,9 +22,9 @@
 		<!-- Consider a link section to make it quick for the user to see your social profile and other files tied to the prodev doc. If they are external resources please make them open in a new window-->
 		<h2>My Links</h2>
 		<ul>
-			<li><a href="https://www.linkedin.com/in/danielheron/" target="_blank">LinkedIn</a></li>
-			<li><a href="https://twitter.com/SuperHeronDan" target="_blank">Twitter</a></li>
-			<li><a href="https://medium.com/@superheron" target="_blank">Medium</a></li>
+			<li><a href="https://www.linkedin.com/" target="_blank">LinkedIn</a></li>
+			<li><a href="https://twitter.com/">Twitter</a></li>
+			<li><a href="https://medium.com/">Medium</a></li>
 
 		</ul>
 		<!-- This is section is for all the professional development homework activities if you have any-->
@@ -32,15 +32,15 @@
 			<h2>Homework Activities</h2>
 			<h3>My Learning Style</h3>
 			<p><strong>Visual</strong></p>
-			<p>30% Auditory</p>
+			<p>35% Auditory</p>
 			<p>40% Visual</p>
-			<p>30% Tactile</p>
+			<p>25% Tactile</p>
 			<br>
 			<h3>Quantitative Accomplishments</h3>
 			<ul>
-				<li>I started a farming intern, and within a period of 5 years had moved up through company, with a knowledge of all positions within the company. </li>
+				<li>At Skarsgard Farms, I started as farming intern, and within a period of five years had moved up through company, with a knowledge of all positions within the company. </li>
 				<li>Within the same five year period my compensation was tripled.</li>
-				<li>I helped to increase the efficiency of our packing room by %33 by  </li>
+				<li>I helped to increase the efficiency of our packing room on our  by 33% by  </li>
 			</ul>
 			<br>
 			<h3>Qualitative Features</h3>
@@ -52,14 +52,16 @@
 			<br>
 			<h3>Golden Circle</h3>
 			<ol>
-				<li>Why?</li>
-				<li>How?</li>
-				<li>What?</li>
+				<li>Why?: To enjoy and utilize our public lands and urban infrastructure now and into the future.</li>
+				<li>How?: By using coding and GIS mapping to develop surveying tools.</li>
+				<li>What?: Restoring and maintaing our urban and natural enivornments.</li>
 			</ol>
 			<br>
+			<h3>Whole Brain Balance</h3>
+			<p>I like to play music to help counterbalance the logical and analytical parts of my brain. Sitting down at the piano or the guitar, and playing an old familiar tune, or improvising a bit, helps me to open up the creative part of my brain. After engaging the logical part of my brain for some time, I feel like the scope of my thinking can begin to narrow, and it's easy for me to get stuck in a loop of frustration, and seeing the solution to a problem can become difficult. Playing music allows me to open up the creative part of my brain, and helps to broaden my thinking, allowing for new perspectives on how to tackle a problem that my logical brain is struggling with.</p>
 			<h3>Elevator Pitch</h3>
 			<p><strong>Version 1</strong></p>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet viverra metus vitae scelerisque. Nunc varius augue sem, tincidunt pellentesque est ultricies a. Aliquam id.
+			<p>Hi, my name is Nick, and I help to restore, maintain and conserve our urban and natural environment, by using coding and GIS mapping to develop surveying tools so we can enjoy and utilize our public lands and urban infrastructure now and into the future. Do you work with any GIS or mapping technologies in your business?
 			</p>
 			<p><strong>Version 2</strong></p>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet viverra metus vitae scelerisque. Nunc varius augue sem, tincidunt pellentesque est ultricies a. Aliquam id.
