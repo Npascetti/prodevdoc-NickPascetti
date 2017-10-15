@@ -15,18 +15,19 @@
 
 	</head>
 	<body>
-		<!-- Please put a header with your name and title of the document-->
-		<h1>Nick Pascetti's </br> Professional Development</h1>
-		<!-- Please a version number or last updated date-->
-		<p>Last updated: October 12, 2017</p>
-		<!-- Consider a link section to make it quick for the user to see your social profile and other files tied to the prodev doc. If they are external resources please make them open in a new window-->
-		<h2>My Links</h2>
-		<ul>
-			<li><a href="https://www.linkedin.com/" target="_blank">LinkedIn</a></li>
-			<li><a href="https://twitter.com/">Twitter</a></li>
-			<li><a href="https://medium.com/">Medium</a></li>
-
-		</ul>
+		<header>
+			<!-- Please put a header with your name and title of the document-->
+			<h1>Nick Pascetti's </br> Professional Development</h1>
+			<!-- Please a version number or last updated date-->
+			<p>Last updated: October 15, 2017</p>
+			<!-- Consider a link section to make it quick for the user to see your social profile and other files tied to the prodev doc. If they are external resources please make them open in a new window-->
+			<h2>My Links</h2>
+			<ul>
+				<li><a href="https://www.linkedin.com/" target="_blank">LinkedIn</a></li>
+				<li><a href="https://twitter.com/">Twitter</a></li>
+				<li><a href="https://medium.com/">Medium</a></li>
+			</ul>
+		</header>
 		<!-- This is section is for all the professional development homework activities if you have any-->
 		<div name="homework">
 			<h2>Homework Activities</h2>
@@ -64,8 +65,7 @@
 			<p>Hi, my name is Nick, and I help to restore, maintain and conserve our urban and natural environment, by using coding and GIS mapping to develop surveying tools so we can enjoy and utilize our public lands and urban infrastructure now and into the future. Do you work with any GIS or mapping technologies in your business?
 			</p>
 			<p><strong>Version 2</strong></p>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet viverra metus vitae scelerisque. Nunc varius augue sem, tincidunt pellentesque est ultricies a. Aliquam id.
-			</p>
+			<p></p>
 		</div>
 
 		<br>
@@ -75,15 +75,15 @@
 		<div name="reflections">
 			<h2>Weekly Reflections</h2>
 			<br>
+			<h3>Week 0</h3>
+			<p>Well, I made it through week 0, only nine more to go. It was an intense experience, but more or less what I was prepared for. I had some trouble wrapping my head around the data design lectures and project at first. But after slamming my head into the problem for a while, re-reading through the Mastering MySQL chapter in the textbook, and consulting with some classmates about the material, I think I am finally starting to get it. I get the feeling that this aspect of the material may just not be my strong suit, but then again, maybe I just need some more practice with the practical implementation of the concepts for it to really come together for me.</p>
+			<p>I am already beginning to feel more comfortable laying out and creating a document from scratch. It's becoming more natural for me to lay out and create the different basic elements and stylings for my sites from a blank page. This coming week I am going to try to keep in mind the law of diminishing returns regarding working on a problem. I should try to be more proactive about speaking with my classmates about issues I am having, and consulting with them to help problem solve sooner than I have been.</p>
 			<h3>Week 1</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sollicitudin, lacus vitae ornare convallis, ligula dui ultricies erat, accumsan imperdiet nisl mauris a massa. Ut nec dolor enim. Pellentesque maximus mattis mi a egestas. Aliquam et nisi dolor. Sed pellentesque, sapien non porttitor convallis, orci lorem dictum leo, eget lobortis arcu orci nec erat. Etiam ullamcorper placerat viverra. Fusce eu egestas augue, at fringilla quam. Etiam vel orci lacinia, gravida libero quis, sollicitudin odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+			<p></p>
 			<h3>Week 2</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sollicitudin, lacus vitae ornare convallis, ligula dui ultricies erat, accumsan imperdiet nisl mauris a massa. Ut nec dolor enim. Pellentesque maximus mattis mi a egestas. Aliquam et nisi dolor. Sed pellentesque, sapien non porttitor convallis, orci lorem dictum leo, eget lobortis arcu orci nec erat. Etiam ullamcorper placerat viverra. Fusce eu egestas augue, at fringilla quam. Etiam vel orci lacinia, gravida libero quis, sollicitudin odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </p>
+			<p></p>
 			<h3>Week 3</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sollicitudin, lacus vitae ornare convallis, ligula dui ultricies erat, accumsan imperdiet nisl mauris a massa. Ut nec dolor enim. Pellentesque maximus mattis mi a egestas. Aliquam et nisi dolor. Sed pellentesque, sapien non porttitor convallis, orci lorem dictum leo, eget lobortis arcu orci nec erat. Etiam ullamcorper placerat viverra. Fusce eu egestas augue, at fringilla quam. Etiam vel orci lacinia, gravida libero quis, sollicitudin odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </p>
-			<h3>Week 4</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sollicitudin, lacus vitae ornare convallis, ligula dui ultricies erat, accumsan imperdiet nisl mauris a massa. Ut nec dolor enim. Pellentesque maximus mattis mi a egestas. Aliquam et nisi dolor. Sed pellentesque, sapien non porttitor convallis, orci lorem dictum leo, eget lobortis arcu orci nec erat. Etiam ullamcorper placerat viverra. Fusce eu egestas augue, at fringilla quam. Etiam vel orci lacinia, gravida libero quis, sollicitudin odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </p>
-			<h3>And so on</h3>
+			<p></p>
 		</div>
 	</body>
 </html>
