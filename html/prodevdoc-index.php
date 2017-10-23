@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+	<head>
 	<!-- Welcome to your central repository for your professional development homework. You will update this document over the course of your bootcamp. I will refer to it as "prodev doc", requesting you add items to it. You will then upload this to your hosting site and share a link to it when it comes time to submit homeowork.
 	<head>
 	<!-- Include your full name in the title-->
@@ -12,7 +13,7 @@
 	https://www.youtube.com/watch?v=BF_jFaYxSDk
 	-->
 
-
+	<link href="../css/stylesheet.css" rel="stylesheet" type="text/css" />
 	</head>
 	<body>
 		<header>
@@ -80,7 +81,7 @@
 			<p>Well, I made it through week 0, only nine more to go. It was an intense experience, but more or less what I was prepared for. I had some trouble wrapping my head around the data design lectures and project at first. But after slamming my head into the problem for a while, re-reading through the Mastering MySQL chapter in the textbook, and consulting with some classmates about the material, I think I am finally starting to get it. I get the feeling that this aspect of the material may just not be my strong suit, but then again, maybe I just need some more practice with the practical implementation of the concepts for it to really come together for me.</p>
 			<p>I am already beginning to feel more comfortable laying out and creating a document from scratch. It's becoming more natural for me to lay out and create the different basic elements and stylings for my sites from a blank page. This coming week I am going to try to keep in mind the law of diminishing returns regarding working on a problem. I should try to be more proactive about speaking with my classmates about issues I am having, and consulting with them to help problem solve sooner than I have been.</p>
 			<h3>Week 1</h3>
-			<p></p>
+			<p>Week 1 is over, and on the whole I'm feeling a bit more confident about everything. Object oriented hit me like a truck, I was feeling pretty lost in the middle of the week. Now though, after the weekend, I feel pretty comfortable with the concepts we were learning this week. These concepts are fairly high level, and it's alot to take in in a short amount of time. At the end of the lectures, my brain felt fried and overloaded with information. After a few days though, the concepts started to sink in a little bit more. I think it just takes a while for my brain to actually parse all of the new information that I'm getting and make sense of it. It wasn't until Thursday or Friday of week 1 that I finally entirely grasped everything that we were doing at the end of week 0 with MySQL. I'm starting to see how all the layers are meshing together better now, and I definitely feel like I am making progress. But, it's definitely a two steps forward one step back situation.</p>
 			<h3>Week 2</h3>
 			<p></p>
 			<h3>Week 3</h3>
