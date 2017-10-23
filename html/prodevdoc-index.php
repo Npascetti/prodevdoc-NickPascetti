@@ -19,12 +19,12 @@
 			<!-- Please put a header with your name and title of the document-->
 			<h1>Nick Pascetti's </br> Professional Development</h1>
 			<!-- Please a version number or last updated date-->
-			<p>Last updated: October 15, 2017</p>
+			<p>Last updated: October 22, 2017</p>
 			<!-- Consider a link section to make it quick for the user to see your social profile and other files tied to the prodev doc. If they are external resources please make them open in a new window-->
 			<h2>My Links</h2>
 			<ul>
-				<li><a href="https://www.linkedin.com/" target="_blank">LinkedIn</a></li>
-				<li><a href="https://twitter.com/">Twitter</a></li>
+				<li><a href="https://www.linkedin.com/in/nickpascetti/" target="_blank">LinkedIn</a></li>
+				<li><a href="https://twitter.com/NickPascetti">Twitter</a></li>
 				<li><a href="https://medium.com/">Medium</a></li>
 			</ul>
 		</header>
@@ -41,7 +41,7 @@
 			<ul>
 				<li>At Skarsgard Farms, I started as farming intern, and within a period of five years had moved up through company, with a knowledge of all positions within the company. </li>
 				<li>Within the same five year period my compensation was tripled.</li>
-				<li>I helped to increase the efficiency of our packing room on our  by 33% by  </li>
+				<li>I helped to increase the efficiency of our packing room by 33%.</li>
 			</ul>
 			<br>
 			<h3>Qualitative Features</h3>
@@ -53,9 +53,9 @@
 			<br>
 			<h3>Golden Circle</h3>
 			<ol>
-				<li>Why?: To enjoy and utilize our public lands and urban infrastructure now and into the future.</li>
-				<li>How?: By using coding and GIS mapping to develop surveying tools.</li>
-				<li>What?: Restoring and maintaing our urban and natural enivornments.</li>
+				<li><strong>Why?:</strong> To enjoy and utilize our public lands and urban infrastructure now and into the future.</li>
+				<li><strong>How?:</strong> By using coding and GIS mapping to develop surveying tools.</li>
+				<li><strong>What?:</strong> Restoring and maintaing our urban and natural enivornments.</li>
 			</ol>
 			<br>
 			<h3>Whole Brain Balance</h3>
