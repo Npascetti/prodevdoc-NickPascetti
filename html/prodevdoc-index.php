@@ -72,6 +72,9 @@
 		</div>
 
 		<br>
+			<h3>Direct/Indirect Marketing Initiatives</h3>
+			<p>I approached some people I know who own a small furniture store in Rio Rancho about doing some work for them on their website. Their site could use an update and some work, and they want to add some functionality to it as well. We made a handhshake agreement that I could start doing some work for them when I'm done with the boot camp.</p>
+			<p>I created a Twitter and LinkedIn account last week. I need to add more to my profiles, and especially take the time to work on my LinkedIn. As someone with no social media at all prior to this, I'm going to consider this a step into indirect marketing for myself.</p>
 
 
 		<!--Use best practices with H tags, Bullets, and Divs-->
