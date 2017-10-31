@@ -27,7 +27,7 @@
 				<li><a href="https://www.linkedin.com/in/nickpascetti/" target="_blank">LinkedIn</a></li>
 				<li><a href="https://twitter.com/NickPascetti">Twitter</a></li>
 				<li><a href="https://medium.com/">Medium</a></li>
-				<li><a href="../pdfs/NickPascettiResume.pdf">My Resume</a></li>
+				<li><a href="../pdfs/resumeonline.pdf">My Resume</a></li>
 			</ul>
 		</header>
 		<!-- This is section is for all the professional development homework activities if you have any-->
