@@ -5,13 +5,6 @@
 	<head>
 	<!-- Include your full name in the title-->
 	<title>Nick Pascetti's ProDev Doc</title>
-	<!-- You are welcome to include CSS styling sheet for layout and design purposes. Please keep it to raw CSS.
-	<style rel="stylesheet" type="text/css" href="somefilesomewhere.css"/>
-
-	Here are some helpful videos to get you started if you don't already know HTML
-	Learn HTML in 5 Minutes
-	https://www.youtube.com/watch?v=BF_jFaYxSDk
-	-->
 
 	<link href="../css/stylesheet.css" rel="stylesheet" type="text/css" />
 	</head>
@@ -77,6 +70,8 @@
 			<p>I created a Twitter and LinkedIn account last week. I need to add more to my profiles, and especially take the time to work on my LinkedIn. As someone with no social media at all prior to this, I'm going to consider this a step into indirect marketing for myself.</p>
 
 			<h3>Group Board Game Reflection</h3>
+			<p>Overall, I thought that our team worked together playing Forbidden Island quite well. I'm sure that it helps that both Calder and myself had played the game a few times before, and also that we enjoy playing board games as a hobbies. We started off the game by reading over the directions (always read the documentation). Although Calder and I had played the game before we still needed a refresher, and we all knew that it would be good for us to go through it together.</p>
+			<p>After playing the first couple of turns, I felt like everybody had a good grasp on how to play the game and what to do. Because Calder and I had the most experience, we took on more of a leadership role of directing and guiding our teammates. Everyone else in our group really rose to the occasion. I felt like Michael, Marcus and JJ all were able to utilize their roles to the best of their abilities. Although we didn't win, we got super close and managed to stay alive way longer than I thought we were going to be able to. We really had some strokes of bad luck at the onset of our game with the roles we were dealt and getting flood cards early on. If we had been able to switch out one of the movement based roles that we had for the engineer card, I think that we definitely would have been able to win.</p>
 
 
 		<!--Use best practices with H tags, Bullets, and Divs-->
