@@ -20,7 +20,7 @@
 			<!-- Please put a header with your name and title of the document-->
 			<h1>Nick Pascetti's </br> Professional Development</h1>
 			<!-- Please a version number or last updated date-->
-			<p>Last updated: October 22, 2017</p>
+			<p>Last updated: November 5, 2017</p>
 			<!-- Consider a link section to make it quick for the user to see your social profile and other files tied to the prodev doc. If they are external resources please make them open in a new window-->
 			<h2>My Links</h2>
 			<ul>
@@ -76,6 +76,8 @@
 			<p>I approached some people I know who own a small furniture store in Rio Rancho about doing some work for them on their website. Their site could use an update and some work, and they want to add some functionality to it as well. We made a handhshake agreement that I could start doing some work for them when I'm done with the boot camp.</p>
 			<p>I created a Twitter and LinkedIn account last week. I need to add more to my profiles, and especially take the time to work on my LinkedIn. As someone with no social media at all prior to this, I'm going to consider this a step into indirect marketing for myself.</p>
 
+			<h3>Group Board Game Reflection</h3>
+
 
 		<!--Use best practices with H tags, Bullets, and Divs-->
 		<div name="reflections">
@@ -90,7 +92,10 @@
 			<p>Week 2 went a bit more smoothly for me. I feel like I'm finally getting into the groove of things. We started doing CSS this week, and some more front end stuff, and that makes a little more sense to me off the bat than the back end development. I'm pretty sure that I want to specialize more in the front end development. I'm enjoying working on the CSS challenege assignment. For me, it's a fun puzzle, and I get a similar kind of enjoyment out of it as doing crossword puzzles.</p>
 			<p>We also started on our Capstone projects this week. I would have been happy with any of the projects we voted on, but I am particularly excited about our group's project. We got the first draft for our Epic done on Friday, so I'm very pleased with that. I'm bracing myself though, for the what our capstone will bring in the future. I feel like we're in the honeymoon phase right now, and that stuff is going to ramp up very quickly.</p>
 			<h3>Week 3</h3>
-			<p></p>
+			<p>I feel like I got a lot accomplished this week. We went to 1 Million Cups on Wednesday, and later on that same evening I went to ABQ Web Geeks. I'm normally a pretty introverted person, so it can be uncomfortable for me to put myself out there and talk to strangers and actively go to a meetup with strangers like at Web Geeks or 1 Million Cups. That being said, when I just force myself to engage I'm always surprised that it's not that bad, and I tend to feel better for it. I just need to remember that when my natural feeling is to want to just go home, or do something else avoidant rather than do something that may help me further my coding education or career.</p>
+			<p>I asked a question to the BudBoard people during the Q&A session of their presentation. I also talked with them for a a couple of minutes after the presentation, and got their card. Later on, at Web Geeks, I chatted with Mark who organizes the meetup, as well as with a couple of other people who were there. I mostly just listened in on their conversation, trying to learn what I could, but I felt like it was good to make an appearance, and at least make myself known a bit. I'm going to try to go again next month.</p>
+			<p>I was a little bit disappointed about how our Capstone project was going this past week. We were already a little bit behind, but not too bad, but then after Rochelle reviewed our data design it ended up that we would need to narrow the scope of our project in order to be able to finish everything by the end of class. That's disappointing, but also good that we are dealing with it now rather than having something that we won't be able to finish by the end of the class. The way that we had to scale our project back changes the way that we want the app to work pretty drastically. But it is only going to be a prototype, so it's okay. We are going to be able to work on it more after the class, and expand it to more of our original intention for the app contest. But we finally got the last bit of our Epic done on Friday, and we got tickets assigned to start writing our classes, so at least we are able to being moving forward, even if it is about a week late.
+			</p>
 		</div>
 	</body>
 </html>
